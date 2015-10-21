@@ -14,7 +14,7 @@ title: Rutgers ML Reading Group
 | ---  | ---  | --- |
 | October 26th | Shaojun Zhu | **Recent applications of deep learning in robotics<br>(Perhaps focusing on grasping)**  <br> Some relevant papers: [[1]](http://arxiv.org/pdf/1301.3592.pdf)[[2]](http://arxiv.org/abs/1412.3128)[[3]](http://www.cs.columbia.edu/~allen/PAPERS/iros15_grasp_varley.pdf)[[4]](http://arxiv.org/pdf/1509.06825v1.pdf)[[5]](http://arxiv.org/pdf/1504.00702v3.pdf).  <br>[1-4] are on detecting grasping locations for robots using deep learning.  The last one for Pieter Abbeel's group in Berkeley is more interesting in the sense that it tries to learn control policies directly from visual input.  His group is one of the first advocates for deep learning in robotics and has a series of related work.  I have not read about it in details, so I may not cover it this time. |
 | November 2nd | Dong Yang | |
-| November 9th | Yan Zhu | |
+| November 9th | Yan Zhu | **RNN and memory network (abstract to be updated)** |
 | November 16th | Brian McMahan | |
 | November 23rd | Babak Saleh | |
 | November 30th | Amr Bakry | |
