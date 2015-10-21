@@ -36,7 +36,7 @@ title: Rutgers ML Reading Group
 #### Structured Prediction
 1. [State of the art on structured regression using deep models - Advances in Structured Prediction](http://icml.cc/2015/tutorials/AdvancesStructuredPrediction.pdf)
 
-#### Semantic SEgmentation
+#### Semantic Segmentation
 1. [Semantic Image Segmentation via Deep Parsing Network](http://arxiv.org/abs/1509.02634)
 
 #### Attention-based models
