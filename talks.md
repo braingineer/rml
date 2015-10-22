@@ -89,6 +89,8 @@ title: Rutgers ML Reading Group
 | Qi Chang | |
 | Bhuvan Chandra Inampudi | |
 | Han Zhang | |
+| Teng Long | |
+| Chetan Tonde | |
 
 
 ## Rules
