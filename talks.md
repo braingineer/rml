@@ -18,6 +18,7 @@ title: Rutgers ML Reading Group
 | November 16th | Brian McMahan | |
 | November 23rd | Babak Saleh | |
 | November 30th | Amr Bakry | |
+| December 7th | Chetan Tonde | "Do Deep Nets Really Need to be Deep?" and "A new learning paradigm: Learning using privileged information" related papers presented together.|
 
 
 ## Reading Stack
@@ -54,6 +55,10 @@ title: Rutgers ML Reading Group
 1. [Learning Distributed Word Representations for Natural Logic Reasoning](http://arxiv.org/abs/1410.4176)
 2. [Skip-Thought Vectors](http://arxiv.org/abs/1506.06726)
 3. [A Diversity-Promoting Objective Function for Neural Conversation Models](http://arxiv.org/pdf/1510.03055.pdf)
+4. [Do Deep Nets Really Need to be Deep?](http://papers.nips.cc/paper/5484-do-deep-nets-really-need-to-be-deep)
+
+#### Kernel Methods
+1. [A new learning paradigm: Learning using privileged information](http://www.sciencedirect.com/science/article/pii/S0893608009001130)
 
 #### Datasets
 1. [Vision and Language](http://visionandlanguage.net/)
