@@ -91,6 +91,7 @@ title: Rutgers ML Reading Group
 | Shahab Raji | |
 | Aditya Chukka | |
 | Behnam Babgholami Mohamada | |
+| Alireza Naghizadeh | |
 | Rajyavardhan Handa | |
 | Qi Chang | |
 | Bhuvan Chandra Inampudi | |
@@ -116,3 +117,7 @@ title: Rutgers ML Reading Group
     - First, let the organizer know your situation, as early as possible.  Second, contact other presenters on the list and see if they are willing to swap with you.
 4. What happens if a new event takes place and we have to change the schedule?
     - To minimize disturbance, the conflicted spot will be moved to the rear of the list after confirmed with the original presenter, while all other schedules remain unchanged.  
+5. How do I do X?
+    - [There is a how to page](http://ada.cs.rutgers.edu/howto.html)
+    - If something isn't on there, email brian[dot]c[dot]mcmahan[at]gmail[dot]com
+
