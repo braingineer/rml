@@ -85,6 +85,7 @@ title: Rutgers ML Reading Group
 | Babak Saleh | |
 | Amr Bakry | |
 | Ramakanth Vemula | |
+| Malihe Alikhani | |
 | Abhijit Shanbhag | |
 | Ana Echavarria Uribe | |
 | Shahab Raji | |
@@ -96,6 +97,8 @@ title: Rutgers ML Reading Group
 | Han Zhang | |
 | Teng Long | |
 | Chetan Tonde | |
+| Shailesh Goel | |
+| Debanjan Ghosh | |
 
 
 ## Rules
