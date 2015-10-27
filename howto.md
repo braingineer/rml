@@ -7,7 +7,7 @@
 
 #### method 1
 1. go to the reading group github. [this is the link](http://github.com/braingineer/rml)
-2. fork the repot. you can use [this guide](https://help.github.com/articles/fork-a-repo/)
+2. fork the repo. you can use [this guide](https://help.github.com/articles/fork-a-repo/)
 3. make a new branch. you can use [this guide](https://help.github.com/articles/creating-and-deleting-branches-within-your-repository/)
 4. make any edits to the page
 5. create a pull request. you can use [this guide](https://help.github.com/articles/using-pull-requests/)
