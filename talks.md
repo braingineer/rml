@@ -18,6 +18,7 @@ title: Rutgers ML Reading Group
 | November 16th | Brian McMahan | |
 | November 23rd | Babak Saleh | |
 | November 30th | Amr Bakry | |
+| December 7th | Chetan Tonde | "Do Deep Nets Really Need to be Deep?" and "A new learning paradigm: Learning using privileged information" related papers presented together.|
 
 
 ## Reading Stack
@@ -36,7 +37,7 @@ title: Rutgers ML Reading Group
 #### Structured Prediction
 1. [State of the art on structured regression using deep models - Advances in Structured Prediction](http://icml.cc/2015/tutorials/AdvancesStructuredPrediction.pdf)
 
-#### Semantic SEgmentation
+#### Semantic Segmentation
 1. [Semantic Image Segmentation via Deep Parsing Network](http://arxiv.org/abs/1509.02634)
 
 #### Attention-based models
@@ -54,6 +55,10 @@ title: Rutgers ML Reading Group
 1. [Learning Distributed Word Representations for Natural Logic Reasoning](http://arxiv.org/abs/1410.4176)
 2. [Skip-Thought Vectors](http://arxiv.org/abs/1506.06726)
 3. [A Diversity-Promoting Objective Function for Neural Conversation Models](http://arxiv.org/pdf/1510.03055.pdf)
+4. [Do Deep Nets Really Need to be Deep?](http://papers.nips.cc/paper/5484-do-deep-nets-really-need-to-be-deep)
+
+#### Kernel Methods
+1. [A new learning paradigm: Learning using privileged information](http://www.sciencedirect.com/science/article/pii/S0893608009001130)
 
 #### Datasets
 1. [Vision and Language](http://visionandlanguage.net/)
@@ -80,15 +85,21 @@ title: Rutgers ML Reading Group
 | Babak Saleh | |
 | Amr Bakry | |
 | Ramakanth Vemula | |
+| Malihe Alikhani | |
 | Abhijit Shanbhag | |
 | Ana Echavarria Uribe | |
 | Shahab Raji | |
 | Aditya Chukka | |
 | Behnam Babgholami Mohamada | |
+| Alireza Naghizadeh | |
 | Rajyavardhan Handa | |
 | Qi Chang | |
 | Bhuvan Chandra Inampudi | |
 | Han Zhang | |
+| Teng Long | |
+| Chetan Tonde | |
+| Shailesh Goel | |
+| Debanjan Ghosh | |
 
 
 ## Rules
@@ -106,3 +117,7 @@ title: Rutgers ML Reading Group
     - First, let the organizer know your situation, as early as possible.  Second, contact other presenters on the list and see if they are willing to swap with you.
 4. What happens if a new event takes place and we have to change the schedule?
     - To minimize disturbance, the conflicted spot will be moved to the rear of the list after confirmed with the original presenter, while all other schedules remain unchanged.  
+5. How do I do X?
+    - [There is a how to page](http://ada.cs.rutgers.edu/howto.html)
+    - If something isn't on there, email brian[dot]c[dot]mcmahan[at]gmail[dot]com
+
