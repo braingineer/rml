@@ -3,7 +3,7 @@ title: Rutgers ML Reading Group
 # Rutgers Machine Learning Reading Group
 
 >A talk series and reading group for deep networks and other machine learning topics.
->Meetings are weekly on Mondays at 5 pm in CBIM.
+>Meetings are weekly on MondayThursddays at 5 pm (2016 Spring) in CBIM.
 
 [TOC]
 
@@ -12,13 +12,18 @@ title: Rutgers ML Reading Group
 
 | Date | Person | Information |
 | ---  | ---  | --- |
-| October 26th | Shaojun Zhu | **Recent applications of deep learning in robotics<br>(Perhaps focusing on grasping)**  <br> Some relevant papers: [[1]](http://arxiv.org/pdf/1301.3592.pdf)[[2]](http://arxiv.org/abs/1412.3128)[[3]](http://www.cs.columbia.edu/~allen/PAPERS/iros15_grasp_varley.pdf)[[4]](http://arxiv.org/pdf/1509.06825v1.pdf)[[5]](http://arxiv.org/pdf/1504.00702v3.pdf).  <br>[1-4] are on detecting grasping locations for robots using deep learning.  The last one for Pieter Abbeel's group in Berkeley is more interesting in the sense that it tries to learn control policies directly from visual input.  His group is one of the first advocates for deep learning in robotics and has a series of related work.  I have not read about it in details, so I may not cover it this time. |
-| November 2nd | Dong Yang | |
-| November 9th | Yan Zhu | **RNN and memory network**<br>I will basically go over these two excellent blogs: [The Unreasonable Effectiveness of Recurrent Neural Networks](http://karpathy.github.io/2015/05/21/rnn-effectiveness/) by Andrew Karpathy and [Understanding LSTM networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/) by Christopher Olah. Then will cover my understanding for the memory networks (see the reference paper below). | 
-| November 16th | Brian McMahan | **Reinforcement Learning with Neural Nets**<br>I will discuss the recent improvements of neural networks and reinfrocement learning. Specifically, I will go over [Willians (1992)](http://www-anw.cs.umass.edu/~barto/courses/cs687/williams92simple.pdf) who introduced the REINFORCE algorithms for combining reinforcement learnign with neural network backpropagation.  This is the algorithm that underlies the model of [Minh, Heess, Graves, and Kavukcuoglu (2014)](http://papers.nips.cc/paper/5542-recurrent-models-of-visual-attention.pdf): Recurrent Models of Visual Attention. If there is time or interest, I will also talk about [Deep-Q learning](https://www.cs.toronto.edu/~vmnih/docs/dqn.pdf). I can also do an overview of RL if there is interest. |
-| November 23rd | Babak Saleh | "A Unified Framework for Fine-art Painting Classification". In this talk I will go through some basics in "Metric Learning", and show their applications in my research on fine-art painting analysis.|
-| November 30th | Amr Bakry | |
-| December 7th | Chetan Tonde | "Do Deep Nets Really Need to be Deep?" and "A new learning paradigm: Learning using privileged information" related papers presented together.|
+| Jan 28th | Dong Yang | fully convolutional networks|
+| Feb 4nd | Ramakanth Vemula | |
+| Feb  11th | Abhijit Shanbhag| |
+| Feb  18th | Aditya Chukka | |
+| Feb  25rd | Rajyavardhan Handa | |
+| Mar 3th | Qi Chang | |
+| Mar 10th | Bhuvan Chandra Inampudi | |
+| Mar 17th | Han Zhang | |
+| Mar 24th | Teng Long | |
+| Mar 31th | Shailesh Goel | |
+| Apr 7th | Debanjan Ghosh  | |
+
 
 
 ## Reading Stack
@@ -83,7 +88,14 @@ title: Rutgers ML Reading Group
 2. [Colah's Blog](http://colah.github.io/)
 
 ## Past Meetings
->*after a meeting of the reading group, move the entry to here for archival purposes*
+| Date | Person | Information |
+| ---  | ---  | --- |
+| October 26th | Shaojun Zhu | **Recent applications of deep learning in robotics<br>(Perhaps focusing on grasping)**  <br> Some relevant papers: [[1]](http://arxiv.org/pdf/1301.3592.pdf)[[2]](http://arxiv.org/abs/1412.3128)[[3]](http://www.cs.columbia.edu/~allen/PAPERS/iros15_grasp_varley.pdf)[[4]](http://arxiv.org/pdf/1509.06825v1.pdf)[[5]](http://arxiv.org/pdf/1504.00702v3.pdf).  <br>[1-4] are on detecting grasping locations for robots using deep learning.  The last one for Pieter Abbeel's group in Berkeley is more interesting in the sense that it tries to learn control policies directly from visual input.  His group is one of the first advocates for deep learning in robotics and has a series of related work.  I have not read about it in details, so I may not cover it this time. |
+| November 9th | Yan Zhu | **RNN and memory network**<br>I will basically go over these two excellent blogs: [The Unreasonable Effectiveness of Recurrent Neural Networks](http://karpathy.github.io/2015/05/21/rnn-effectiveness/) by Andrew Karpathy and [Understanding LSTM networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/) by Christopher Olah. Then will cover my understanding for the memory networks (see the reference paper below). | 
+| November 16th | Brian McMahan | **Reinforcement Learning with Neural Nets**<br>I will discuss the recent improvements of neural networks and reinfrocement learning. Specifically, I will go over [Willians (1992)](http://www-anw.cs.umass.edu/~barto/courses/cs687/williams92simple.pdf) who introduced the REINFORCE algorithms for combining reinforcement learnign with neural network backpropagation.  This is the algorithm that underlies the model of [Minh, Heess, Graves, and Kavukcuoglu (2014)](http://papers.nips.cc/paper/5542-recurrent-models-of-visual-attention.pdf): Recurrent Models of Visual Attention. If there is time or interest, I will also talk about [Deep-Q learning](https://www.cs.toronto.edu/~vmnih/docs/dqn.pdf). I can also do an overview of RL if there is interest. |
+| November 23rd | Babak Saleh | "A Unified Framework for Fine-art Painting Classification". In this talk I will go through some basics in "Metric Learning", and show their applications in my research on fine-art painting analysis.|
+| November 30th | Amr Bakry | This talk will be about the work during my PhD on using Image Manifold Analysis for solving couple of computer vision problems. More specifically, I will talk about lip-reading in videos and object recognition and pose estimation in images. | 
+| December 7th | Chetan Tonde | "Do Deep Nets Really Need to be Deep?" and "A new learning paradigm: Learning using privileged information" related papers presented together.|
 
 ## Members and their presentation dates <br> (upcoming and archived)
 > [copy-pastable email list here](/private/rml_members.html)
