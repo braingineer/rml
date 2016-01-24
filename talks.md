@@ -20,9 +20,8 @@ title: Rutgers ML Reading Group
 | Mar 3th | Qi Chang | |
 | Mar 10th | Bhuvan Chandra Inampudi | |
 | Mar 17th | Han Zhang | |
-| Mar 24th | Teng Long | |
-| Mar 31th | Shailesh Goel | |
-| Apr 7th | Debanjan Ghosh  | |
+| Mar 24th | Shailesh Goel | |
+| Mar 31th | Debanjan Ghosh | |
 
 
 
